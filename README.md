@@ -38,5 +38,27 @@ This Power BI dashboard visualizes Shopify e-commerce performance data and provi
   - Map visuals (State & City level)
   - Donut chart for gateway sales distribution
 
-## 📁 Project Structure
+## 📁 Project Structure(Shopify_Analysis.pbix)
+
+
+## 🧰 Tools Used
+
+- **Power BI**
+- **DAX**
+- **Data Modeling**
+- **Geo Mapping (Bing Maps Integration)**
+
+## 🚀 Purpose
+
+This dashboard was designed to help Shopify-based businesses understand:
+- Sales performance across regions and time
+- Customer behavior (new vs repeat)
+- Product category performance
+- Gateway-wise revenue breakdown
+
+## 📬 Contact
+
+If you'd like a similar dashboard tailored to your business or dataset, feel free to reach out via [LinkedIn]([#](https://www.linkedin.com/in/ihsan-hasan-v-20166420b/)) or email at [yourname@example.com](mailto:ihsanbinhameed@gmail.com).
+
+---
 
