@@ -58,7 +58,7 @@ This dashboard was designed to help Shopify-based businesses understand:
 
 ## 📬 Contact
 
-If you'd like a similar dashboard tailored to your business or dataset, feel free to reach out via [LinkedIn]([#](https://www.linkedin.com/in/ihsan-hasan-v-20166420b/)) or email at [yourname@example.com](mailto:ihsanbinhameed@gmail.com).
+If you'd like a similar dashboard tailored to your business or dataset, feel free to reach out via [(https://www.linkedin.com/in/ihsan-hasan-v-20166420b/)]([#]) or email at [mailto:ihsanbinhameed@gmail.com].
 
 ---
 
